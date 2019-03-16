@@ -15,8 +15,6 @@
 # limitations under the License.
 # ==============================================================================
 
-%matplotlib inline
-
 from __future__ import absolute_import
 from __future__ import division
 
@@ -39,6 +37,7 @@ from matplotlib import ticker
 from matplotlib.lines import Line2D
 from mpl_toolkits.mplot3d import Axes3D
 
+%matplotlib inline
 
 # plt.rc('xtick', labelsize='x-large')
 # plt.rc('ytick', labelsize='x-large')
